@@ -119,7 +119,7 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 
 - These products contributed significantly to profitability, pointing to key areas to focus on for high-margin sales. 
 
-The least profitable products: Products (14, 12,9,3,1) recorded the lowest profits. This means even if Product 1 is the highest performing revenue wise (£18,461), it generates the least profit (£333.2). Product 5 and 8 bring in more profit for the business even if they bring in less revenue (£17,045.40 and £14,058.80)
+- The least profitable products: Products (14, 12,9,3,1) recorded the lowest profits. This means even if Product 1 is the highest performing revenue wise (£18,461), it generates the least profit (£333.2). Product 5 and 8 bring in more profit for the business even if they bring in less revenue (£17,045.40 and £14,058.80)
 
 **Geographic and Product Performance**
 
