@@ -31,7 +31,9 @@ The first step was to organize the dataset by creating new staging tables.
 This allowed for cleaning and analysis without altering the original data. During the data cleaning process, I:
 
 •	Ensured there were no duplicate records to be removed, to guarantee data integrity.
+
 •	Ensured there were no missing values to be handled in key columns like Customer ID, Product ID, and Sales Amount
+
 •	The date column was assigned with the correct data type.
 
 
@@ -39,6 +41,7 @@ This allowed for cleaning and analysis without altering the original data. Durin
 
 
 To analyse sales performance, I focused on four key aspects: seasons, regions, products, and customer segments.
+
 1)	**Overall Sales Performance**: Over the period of 2024–2026, the company sold 5,000 units of its products, generating £256,910 in revenue. 
 
 2)	**Profitability**: The company achieved an impressive profit of £112,357, reflecting a profit margin of 43.73%. 
@@ -71,7 +74,7 @@ This identified South and North as key areas for focusing marketing efforts to s
 •	Product 15: £15,536.40
 •	Product 8: £14,058.80
 
-The data revealed the best-selling products by both quantity and revenue, providing a clear direction for inventory optimization. Products 1 is the best performing product by sales quantity and revenue.
+The data revealed the best-selling products by both quantity and revenue, providing a clear direction for inventory optimization. Products 1 is the best          performing product by sales quantity and revenue.
 
 **Underperforming Products**: The bottom 5 products (Product 10, 18, 7, 11, and 14) recorded the lowest revenue.
 
