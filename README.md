@@ -80,21 +80,21 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 
 7)	**Top 5 Performing Customers**:
 
-**By Quantity Ordered**:
+- **By Quantity Ordered**:
 •	Customer ID 98: 98 units
 •	Customer ID 45: 84 units
 •	Customer ID 29: 84 units
 •	Customer ID 32: 83 units
 •	Customer ID 87: 82 units
 
-**By Order Count**:
+- **By Order Count**:
 •	Customer ID 98: 20 orders
 •	Customer ID 59: 16 orders
 •	Customer ID 29: 16 orders
 •	Customer ID 17: 16 orders
 •	Customer ID 20: 15 orders
 
-**By Revenue**:
+- **By Revenue**:
 •	Customer ID 98: £5,873.80
 •	Customer ID 59: £4,691.10
 •	Customer ID 93: £4,090
