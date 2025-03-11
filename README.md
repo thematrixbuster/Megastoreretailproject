@@ -17,14 +17,19 @@ This analysis addresses the following questions:
 **Skills demonstrated**
 
 •	Data cleaning and transformation using SQL
+
 •	Data modelling and analysis with DAX (calculated columns and measures)
+
 •	Time intelligence analysis
+
 •	Data visualization using Power Bi
 
 
 **Data Preparation and Cleaning**
 
-The first step was to organize the dataset by creating new staging tables. This allowed for cleaning and analysis without altering the original data. During the data cleaning process, I:
+The first step was to organize the dataset by creating new staging tables. 
+This allowed for cleaning and analysis without altering the original data. During the data cleaning process, I:
+
 •	Ensured there were no duplicate records to be removed, to guarantee data integrity.
 •	Ensured there were no missing values to be handled in key columns like Customer ID, Product ID, and Sales Amount
 •	The date column was assigned with the correct data type.
