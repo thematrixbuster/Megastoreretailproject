@@ -58,7 +58,7 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 
 - This identified South and North as key areas for focusing marketing efforts to sustain growth.
 
-6)	**Top 5 Selling Products by Sales Quantity and Sales Amount**:
+5)	**Top 5 Selling Products by Sales Quantity and Sales Amount**:
 
 **By Sales Quantity**:
 •	Product 1: 374 units
@@ -66,6 +66,7 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 •	Product 15: 310 units
 •	Product 5: 297 units
 •	Product 4: 283 units
+
 
 **By Revenue**:
 •	Product 1: £18,460.90
@@ -78,7 +79,9 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 
 **Underperforming Products**: The bottom 5 products (Product 10, 18, 7, 11, and 14) recorded the lowest revenue.
 
+
 7)	**Top 5 Performing Customers**:
+
 
 - **By Quantity Ordered**:
 •	Customer ID 98: 98 units
@@ -87,12 +90,14 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 •	Customer ID 32: 83 units
 •	Customer ID 87: 82 units
 
+
 - **By Order Count**:
 •	Customer ID 98: 20 orders
 •	Customer ID 59: 16 orders
 •	Customer ID 29: 16 orders
 •	Customer ID 17: 16 orders
 •	Customer ID 20: 15 orders
+
 
 - **By Revenue**:
 •	Customer ID 98: £5,873.80
@@ -107,9 +112,11 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 
 1.	**Customer Segment Performance**:
 •	Corporate customers spent the most with (£145,001).
-•	The highest spending category for corporate customers was Electronic. Product 15 generated the highest revenue (£9,897.3)
+•	The highest spending category for corporate customers was Electronics. Product 15 generated the highest revenue (£9,897.3)
 •	Individual customers spent (£111,904).
 •	The highest spending category for individual customers was Electronics. Product 5 generated the highest revenue (£9,788).
+
+
 2.	**Top 5 Profitable Products**:
 •	Product ID 5: £14,788
 •	Product ID 8: £11,645
@@ -125,7 +132,9 @@ To analyse sales performance, I focused on four key aspects: seasons, regions, p
 
 1.	**Sales by Region**:
 o	Highest sales by region: South led in quantity sold, revenue and profit (1328 products sold, £70,153.81 revenue generated, and $32.3k profit made)
-o	Lowest sales by region: East generated the lowest revenue, quantity sold and profit (1136 products sold, £57,266 revenue generated and £23.6k profit made|)
+o	Lowest sales by region: East generated the lowest revenue, quantity sold and profit (1136 products sold, £57,266 revenue generated and £23.6k profit made)
+
+
 2.	**Category Performance**:
 
 **Top Categories by Sales**:
@@ -136,12 +145,16 @@ o	Lowest sales by region: East generated the lowest revenue, quantity sold and p
 
 - This insight shows which categories bring in the most revenue and identify opportunities for growth in underperforming categories like Clothing.
 
+  
+
 **Interactive Dashboards and Visualizations**
 To facilitate continuous tracking of sales performance and profitability, interactive dashboards were created in Power BI, visualizing key metrics such as:
 •	Total sales by region.
 •	Total sales by category.
 •	Top-selling products by revenue and profit.
 •	Customer segmentation and profitability.
+
+
 
 **Business Value and Actionable Insights**
 With these insights, stakeholders can:
